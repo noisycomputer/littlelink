@@ -187,7 +187,7 @@ button:hover,
   background-color: #8257E6 }
 .button.button-rocketseat:hover,
 .button.button-rocketseat:focus {
-  filter: brightness(90%) }  
+  filter: brightness(90%) }
 
 /* Snapchat */
 .button.button-snapchat {
@@ -228,7 +228,7 @@ button:hover,
 .button.button-steam:hover,
 .button.button-steam:focus {
   filter: brightness(90%) }
-  
+
 /* Telegram */
 .button.button-telegram {
   color: #FFFFFF;
@@ -268,4 +268,3 @@ button:hover,
 .button.button-youtube:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
-
